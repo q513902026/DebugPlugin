@@ -1,0 +1,5 @@
+name: BilicraftDebugPlugin
+version: 0.0.1
+author: bilicraft
+
+main: io.bilicraft.r6.plugin.debug.DebugPlugin
